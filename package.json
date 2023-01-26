@@ -1,6 +1,6 @@
 {
   "name": "echarts-fixed-axis",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Fixed number of echarts axis segments",
   "license": "MIT",
   "repository": "hongdeyuan/echarts-fixed-Axis",
